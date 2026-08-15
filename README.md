@@ -22,7 +22,7 @@ Data Archivist est mon cinquieme projet de la picine python de 42. Le but est de
 Lancer l'exercice voulue dans le terminal.
 ### Complitation
 ```bash
-python3 ft_ancient_text.py
+python3 ft_ancient_text.py test.txt
 ```
 
 ---
